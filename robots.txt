@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://granny-online.github.io/sitemap.xml
